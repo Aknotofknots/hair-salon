@@ -1,0 +1,49 @@
+{
+  "hairSalons": [
+    {
+      "salonName": "Sax & Fön",
+      "availableHours": "12.00",
+      "ratings": "32",
+      "streetAddress": "Rådmansgatan 46",
+      "haircutDuration": "30",
+      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
+      "prices": [320, 840, 1600]
+    },
+    {
+      "salonName": "Hårizont",
+      "availableHours": "12.00",
+      "ratings": "32",
+      "streetAddress": "Rådmansgatan 46",
+      "haircutDuration": "30",
+      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
+      "prices": [320, 840, 1600]
+    },
+    {
+      "salonName": "Hårhuset",
+      "availableHours": "12.00",
+      "ratings": "32",
+      "streetAddress": "Rådmansgatan 46",
+      "haircutDuration": "30",
+      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
+      "prices": [320, 840, 1600]
+    },
+    {
+      "salonName": "Hair & nu",
+      "availableHours": "12.00",
+      "ratings": "32",
+      "streetAddress": "Rådmansgatan 46",
+      "haircutDuration": "30",
+      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
+      "prices": [320, 840, 1600]
+    },
+    {
+      "salonName": "Hårley Davidson",
+      "availableHours": "12.00",
+      "ratings": "32",
+      "streetAddress": "Rådmansgatan 46",
+      "haircutDuration": "30",
+      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
+      "prices": [320, 840, 1600]
+    }
+  ]
+}
