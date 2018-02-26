@@ -1,10 +1,5 @@
 import React from "react";
-import styled from "styled-components";
-
-const Wrapper = styled.div`
-  justify-self: start;
-  padding-left: 10px;
-`;
+import Wrapper from "./StyledComponents/ChevronLeft/index";
 
 const ChevronLeft = () => {
   return (

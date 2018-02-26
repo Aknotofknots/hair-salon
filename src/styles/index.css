@@ -1,3 +1,16 @@
 body {
   font-family: "MillerBanner", sans-serif;
 }
+
+.drop-down-item1:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+}
+.drop-down-item2:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+}
+.drop-down-item3:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+}

@@ -1,49 +1,55 @@
 {
+  "priceRanges": ["250 - 500", "500 - 1000", "1000 - 1500"],
   "hairSalons": [
     {
       "salonName": "Sax & Fön",
       "availableHours": "12.00",
+      "openHours": "Öppet till 18:00",
+      "phoneNumber": "08-4365656776",
       "ratings": "32",
-      "streetAddress": "Rådmansgatan 46",
+      "streetAddress": "Rådmansgatan 46, 113 57 Stockholm",
       "haircutDuration": "30",
-      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
-      "prices": [320, 840, 1600]
+      "prices": [550, 1150, 1375]
     },
     {
       "salonName": "Hårizont",
       "availableHours": "12.00",
+      "openHours": "Öppet till 19:00",
+      "phoneNumber": "08-4365656776",
       "ratings": "32",
-      "streetAddress": "Rådmansgatan 46",
+      "streetAddress": "Rådmansgatan 46, 113 57 Stockholm",
       "haircutDuration": "30",
-      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
-      "prices": [320, 840, 1600]
+      "prices": [275, 449, 1500]
     },
     {
       "salonName": "Hårhuset",
       "availableHours": "12.00",
+      "openHours": "Öppet till 17:00",
+      "phoneNumber": "08-4365656776",
       "ratings": "32",
-      "streetAddress": "Rådmansgatan 46",
+      "streetAddress": "Rådmansgatan 46, 113 57 Stockholm",
       "haircutDuration": "30",
-      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
-      "prices": [320, 840, 1600]
+      "prices": [275, 650, 1600]
     },
     {
       "salonName": "Hair & nu",
       "availableHours": "12.00",
+      "openHours": "Öppet till 20:00",
+      "phoneNumber": "08-4365656776",
       "ratings": "32",
-      "streetAddress": "Rådmansgatan 46",
+      "streetAddress": "Rådmansgatan 46, 113 57 Stockholm",
       "haircutDuration": "30",
-      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
-      "prices": [320, 840, 1600]
+      "prices": [250, 840, 1800]
     },
     {
       "salonName": "Hårley Davidson",
       "availableHours": "12.00",
+      "openHours": "Öppet till 19:00",
+      "phoneNumber": "08-4365656776",
       "ratings": "32",
-      "streetAddress": "Rådmansgatan 46",
+      "streetAddress": "Rådmansgatan 46, 113 57 Stockholm",
       "haircutDuration": "30",
-      "priceRanges": ["250 - 500", "500 - 1000", "1000 - 2000"],
-      "prices": [320, 840, 1600]
+      "prices": [230, 759, 1550]
     }
   ]
 }

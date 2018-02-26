@@ -1,14 +1,9 @@
 import React from "react";
-import styled from "styled-components";
+import Wrapper from "./StyledComponents/ChevronDown/index";
 
-const Wrapper = styled.div`
-  justify-self: end;
-  padding-right: 10px;
-`;
-
-const ChevronDown = () => {
+const ChevronDown = ({ isSalonClicked }) => {
   return (
-    <Wrapper>
+    <Wrapper isSalonClicked={isSalonClicked}>
       <svg
         width="12px"
         height="7px"

@@ -1,12 +1,6 @@
 import React from "react";
-import styled from "styled-components";
-
-const Wrapper = styled.div`
-  justify-self: end;
-  padding-right: 10px;
-`;
-
-const Settings = () => (
+import Wrapper from "./StyledComponents/SettingsIcon/index";
+const SettingsIcon = () => (
   <Wrapper>
     <svg
       width="19px"
@@ -53,4 +47,4 @@ const Settings = () => (
   </Wrapper>
 );
 
-export default Settings;
+export default SettingsIcon;
