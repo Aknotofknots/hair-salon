@@ -1,6 +1,7 @@
 # Hair Salon
 
-displays a list view of salons and an info view of a specific salon selected from the list. 
+displays a list view of salons and an info view of a specific salon selected from the list.
+The layout is designed for mobiles.
 
 ## Getting Started
 
@@ -16,3 +17,7 @@ displays a list view of salons and an info view of a specific salon selected fro
 * [React](https://reactjs.org/)
 * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [styled-components](https://www.styled-components.com/)
+
+### Deployment
+
+The project is live on [heroku](https://hair-salon-arbetsprov.herokuapp.com/)
