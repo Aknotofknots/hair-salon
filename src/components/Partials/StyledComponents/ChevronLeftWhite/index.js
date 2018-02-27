@@ -3,9 +3,8 @@ import styled from "styled-components";
 const Wrapper = styled.span`
   position: absolute;
   justify-self: start;
-  margin-top: 10px;
-  margin-left: 5px;
-  padding: 10px;
+  margin-top: 30px;
+  margin-left: 10px;
   z-index: 2;
 
   &:hover {
