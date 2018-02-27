@@ -17,3 +17,7 @@ The layout is designed for mobiles.
 * [React](https://reactjs.org/)
 * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [styled-components](https://www.styled-components.com/)
+
+### Deployment
+
+The project is live on [heroku](https://hair-salon-arbetsprov.herokuapp.com/)
