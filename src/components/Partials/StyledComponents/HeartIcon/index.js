@@ -2,9 +2,9 @@ import styled from "styled-components";
 
 const Wrapper = styled.span`
   position: absolute;
-  margin-top: 25px;
-  margin-right: 10px;
-  justify-self: end;
+  align-self: flex-start;
+  right: 10px;
+  top: 28px;
   z-index: 2;
 `;
 

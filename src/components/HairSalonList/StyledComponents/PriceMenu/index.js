@@ -18,6 +18,11 @@ export const MenuItem = styled.span`
   padding: 5px;
   margin: 5px;
   color: white;
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 2px;
+  }
 `;
 
 export default Menu;

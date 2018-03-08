@@ -10,11 +10,7 @@ const HairSalonListPriceMenu = ({
     <Menu isFilterClicked={isFilterClicked}>
       {priceRanges.map((priceRange, position) => {
         return (
-          <MenuItem
-            className={`drop-down-item${position + 1}`}
-            onClick={updatePriceRange}
-            key={priceRange}
-          >
+          <MenuItem onClick={updatePriceRange} key={priceRange}>
             {priceRange}
           </MenuItem>
         );
