@@ -14,7 +14,6 @@ The layout is designed for mobiles.
 
 ### Built with
 * [create-react-app](https://github.com/facebook/create-react-app)
-* [React](https://reactjs.org/)
 * [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [styled-components](https://www.styled-components.com/)
 
